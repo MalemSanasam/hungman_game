@@ -1,0 +1,17 @@
+{
+  "game_title": "Hangman Game",
+  "difficulty_levels": {
+    "easy": ["apple", "banana", "grape", "peach", "plum"],
+    "medium": ["elephant", "giraffe", "dolphin", "penguin", "tiger"],
+    "hard": ["pneumonia", "subconscious", "exaggerate", "acknowledge", "rhythm"]
+  },
+  "instructions": "Guess the letters of the word. You have 6 chances before you lose.",
+  "max_attempts": 6,
+  "hints": {
+    "apple": "A popular fruit that keeps doctors away.",
+    "banana": "A yellow fruit that monkeys love.",
+    "giraffe": "A tall animal with a long neck.",
+    "pneumonia": "A lung disease caused by infection.",
+    "rhythm": "A word with no vowels."
+  }
+}
