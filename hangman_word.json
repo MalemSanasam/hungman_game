@@ -8,10 +8,20 @@
   "instructions": "Guess the letters of the word. You have 6 chances before you lose.",
   "max_attempts": 6,
   "hints": {
-    "apple": "A popular fruit that keeps doctors away.",
-    "banana": "A yellow fruit that monkeys love.",
-    "giraffe": "A tall animal with a long neck.",
-    "pneumonia": "A lung disease caused by infection.",
-    "rhythm": "A word with no vowels."
+      "apple": "A popular fruit that keeps doctors away.",
+      "banana": "A yellow fruit that monkeys love.",
+      "grape": "Small, round, and often used to make wine.",
+      "peach": "A fuzzy fruit with a sweet taste and a large pit.",
+      "plum": "A small, purple fruit with a smooth skin and a pit.",
+      "elephant": "The largest land animal with a long trunk.",
+      "giraffe": "A tall animal with a long neck found in Africa.",
+      "dolphin": "A highly intelligent marine mammal known for its playful behavior.",
+      "penguin": "A flightless bird that lives in cold climates and loves to swim.",
+      "tiger": "A large striped feline predator known for its power and stealth.",
+      "pneumonia": "A lung disease caused by infection.",
+      "subconscious": "The part of the mind that influences thoughts and feelings without full awareness.",
+      "exaggerate": "To make something seem larger or more important than it actually is.",
+      "acknowledge": "To accept or admit the existence or truth of something.",
+      "rhythm": "A word with no vowels that refers to a repeated pattern of sound or movement."
   }
 }
